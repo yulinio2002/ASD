@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/tu-usuario/tu-repo.git
+git checkout -b nombre-de-tu-nueva-rama
+git add .
+git commit -m "Inicio de la rama nombre-de-tu-nueva-rama relacionado al issue #número"
+git push -u origin nombre-de-tu-nueva-rama
